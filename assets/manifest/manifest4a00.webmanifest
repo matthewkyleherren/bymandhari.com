@@ -1,0 +1,22 @@
+{
+    "name"              : "Жилой квартал Eniteo",
+    "short_name"        : "Eniteo",
+    "description"       : "Квартиры бизнес-класса от компании Tekta Group в зеленом районе на Юго-Западе Москвы с уникальными видами",
+    "start_url"         : "/",
+    "display"           : "browser",
+    "orientation"       : "any",
+    "icons": [
+        {
+            "src": "/assets/manifest/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/manifest/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#565440",
+    "background_color": "#565440"
+}
