@@ -1,38 +1,44 @@
 
 <!DOCTYPE html>
 <html dir="ltr" lang="ru" class="has-hover no-js">
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
             <meta charset="utf-8">
         <meta name="Author" content=""/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 
-                <title>Residential Complex Eniteo | News and special offers</title>
-        <meta name="description" content="Business-class apartments by Tekta Group in a green area in south-west Moscow with unique views"/>
+                <title>Жилой квартал Eniteo</title>
+        <meta name="description" content="Квартиры бизнес-класса от компании Tekta Group в зеленом районе на Юго-Западе Москвы с уникальными видами"/>
         <meta name="Keywords" content="">
 
-    		<link rel="shortcut icon" href="../favicon4a00.ico?v=1657181656"/>
+    		<link rel="shortcut icon" href="/favicon.ico?v=1657181656"/>
 
-            <link rel="icon" type="image/png" sizes="32x32" href="../assets/manifest/favicon-32x324a00.png?v=1657181656" />
-        <link rel="icon" type="image/png" sizes="16x16" href="../assets/manifest/favicon-16x164a00.png?v=1657181656" />
-        <link rel="apple-touch-icon" href="../assets/manifest/apple-touch-icon4a00.png?v=1657181656" />
+            <link rel="icon" type="image/png" sizes="32x32" href="/assets/manifest/favicon-32x32.png?v=1657181656" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/manifest/favicon-16x16.png?v=1657181656" />
+        <link rel="apple-touch-icon" href="/assets/manifest/apple-touch-icon.png?v=1657181656" />
         
-        <link rel="manifest" href="../assets/manifest/manifest4a00.webmanifest?v=1657181656" />
+        <link rel="manifest" href="/assets/manifest/manifest.webmanifest?v=1657181656" />
         <meta name="theme-color" content="#565440" />
         <meta name="msapplication-TileColor" content="#565440">
-        <meta name="msapplication-TileImage" content="../assets/manifest/mstile-144x144.png">
-        <meta name="msapplication-config" content="../assets/manifest/browserconfig4a00.xml?v=1657181656" />
+        <meta name="msapplication-TileImage" content="/assets/manifest/mstile-144x144.png">
+        <meta name="msapplication-config" content="/assets/manifest/browserconfig.xml?v=1657181656" />
 
 	                        <meta property="og:type" content="website" />
-        <meta property="og:url" content="../index.html" />
-        <meta property="og:title" content="Residential Complex Eniteo | News and special offers" />
-        <meta property="og:description" content="Business-class apartments by Tekta Group in a green area in south-west Moscow with unique views" />
-        <meta property="og:image" content="../assets/manifest/og.png" />
+        <meta property="og:url" content="https://eniteo.ru" />
+        <meta property="og:title" content="Жилой квартал Eniteo" />
+        <meta property="og:description" content="Квартиры бизнес-класса от компании Tekta Group в зеленом районе на Юго-Западе Москвы с уникальными видами" />
+        <meta property="og:image" content="https://eniteo.ru/assets/manifest/og.png" />
 
 			        <meta name="format-detection" content="telephone=no"/>
 
     
-    
+        
+    <script >
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K7MVZKL');
+    </script>
 
             <script>
             document.documentElement.classList.remove('no-js');
@@ -44,14 +50,14 @@
             }
         </script>
 
-            <link rel="stylesheet" href="../assets/stylesheets/global4a00.css?v=1657181656" />
+            <link rel="stylesheet" href="/assets/stylesheets/global.css?v=1657181656" />
 
                 
-                <link rel="dns-prefetch" href="https://storage.googleapis.com/">
-        <link rel="preconnect" href="https://storage.googleapis.com/" crossorigin>
+                <link rel="dns-prefetch" href="https://storage.googleapis.com">
+        <link rel="preconnect" href="https://storage.googleapis.com" crossorigin>
 
                 
-                <link rel="stylesheet" href="../assets/stylesheets/news4a00.css?v=1657181656" />
+                <link rel="stylesheet" href="/assets/stylesheets/404.css?v=1657181656" />
 </head>
 <body data-barba="wrapper">
             <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7MVZKL"
@@ -180,12 +186,12 @@
             <div class="group group--filter">
                                 <a class="btn btn--dark-header btn--square is-hidden--xl-up" aria-label="Меню" tabindex="0" href="#menu"><span class="btn__content">
                     
-        <svg class="icon icon-menu icon--with-margins-large" width="20" height="16" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#menu" xlink:href="../assets/images/icons4a00.svg?v=1657181656#menu"></use></svg>
+        <svg class="icon icon-menu icon--with-margins-large" width="20" height="16" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#menu" xlink:href="/assets/images/icons.svg?v=1657181656#menu"></use></svg>
                 </span></a>
                                 <a class="btn btn--dark-header is-hidden--lg-down" tabindex="0" href="#menu"><span class="btn__content">
                     
-        <svg class="icon icon-menu icon--with-margins-large" width="20" height="16" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#menu" xlink:href="../assets/images/icons4a00.svg?v=1657181656#menu"></use></svg>
-                    <span>Menu</span>
+        <svg class="icon icon-menu icon--with-margins-large" width="20" height="16" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#menu" xlink:href="/assets/images/icons.svg?v=1657181656#menu"></use></svg>
+                    <span>Меню</span>
                 </span></a>
 
                                 
@@ -195,10 +201,10 @@
         </div>
 
                 <div class="col col--md-3 text-center text-left:md js-header-left ui-olive header__logo">
-            <a class="btn btn--header btn--extended-area btn--link" aria-label="На целевую страницу" href="index.html">
+            <a class="btn btn--header btn--extended-area btn--link" aria-label="На целевую страницу" href="/">
                 <span class="btn__content">
                     
-        <svg class="icon icon-logo logo" width="141" height="46" viewBox="0 0 141 46" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#logo" xlink:href="../assets/images/icons4a00.svg?v=1657181656#logo"></use></svg>
+        <svg class="icon icon-logo logo" width="141" height="46" viewBox="0 0 141 46" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#logo" xlink:href="/assets/images/icons.svg?v=1657181656#logo"></use></svg>
                 </span>
             </a>
         </div>
@@ -210,30 +216,30 @@
 
                 <a class="btn btn--square btn--outline btn--primary--transparent--favorite is-hidden--xs" aria-label="Избранное" role="button" href="#favourites" data-ajax-page-transition="modal-in"><span class="btn__content">
                     
-        <svg class="icon icon-favourite" width="18" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#favourite" xlink:href="../assets/images/icons4a00.svg?v=1657181656#favourite"></use></svg>
+        <svg class="icon icon-favourite" width="18" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#favourite" xlink:href="/assets/images/icons.svg?v=1657181656#favourite"></use></svg>
                 </span></a>
 
-                <a class="btn btn--square btn--pink is-hidden--xs" aria-label="3D Tour" role="button" href="3d-tour.html">
+                <a class="btn btn--square btn--pink is-hidden--xs" aria-label="3D Tour" role="button" href="/3d-tour">
                     <span class="btn__content">
                         
-        <svg class="icon icon-tour-header" width="21" height="22" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#tour-header" xlink:href="../assets/images/icons4a00.svg?v=1657181656#tour-header"></use></svg>
+        <svg class="icon icon-tour-header" width="21" height="22" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#tour-header" xlink:href="/assets/images/icons.svg?v=1657181656#tour-header"></use></svg>
                     </span>
                 </a>
 
-                                <a class="btn btn--dark-header is-hidden--sm-down is-hidden--xl-up" href="flats.html"><span class="btn__content">
+                                <a class="btn btn--dark-header is-hidden--sm-down is-hidden--xl-up" href="/flats"><span class="btn__content">
                     
-        <svg class="icon icon-settings icon--with-margins-large-desktop" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#settings" xlink:href="../assets/images/icons4a00.svg?v=1657181656#settings"></use></svg>
-                    <span class="btn__text">Select apartment</span>
+        <svg class="icon icon-settings icon--with-margins-large-desktop" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#settings" xlink:href="/assets/images/icons.svg?v=1657181656#settings"></use></svg>
+                    <span class="btn__text">Выбрать квартиру</span>
                 </span></a>
 
                                 <a class="btn btn--dark-header  is-hidden--lg-down"  id="apartment-menu"><span class="btn__content">
                     
-        <svg class="icon icon-settings icon--with-margins-large-desktop" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#settings" xlink:href="../assets/images/icons4a00.svg?v=1657181656#settings"></use></svg>
-                    <span class="btn__text">Select apartment</span>
+        <svg class="icon icon-settings icon--with-margins-large-desktop" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#settings" xlink:href="/assets/images/icons.svg?v=1657181656#settings"></use></svg>
+                    <span class="btn__text">Выбрать квартиру</span>
                 </span></a>
 
                 <a class="btn btn--dark-header is-hidden--md-up" href="#" id="apartment-mobile-menu"><span class="btn__content">
-                    Apartments
+                    Квартиры
                 </span></a>
 
                 <div class="header__content__spacer is-hidden--sm-down"></div>
@@ -254,11 +260,11 @@
     >
         <a class="btn btn--square btn--callback js-header-callback-toggle is-hidden--sm-down" aria-label="Закажите бесплатный обратный звонок" role="button"><span class="btn__content">
             
-        <svg class="icon icon-phone icon--no-margins" width="19" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#phone" xlink:href="../assets/images/icons4a00.svg?v=1657181656#phone"></use></svg>
+        <svg class="icon icon-phone icon--no-margins" width="19" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#phone" xlink:href="/assets/images/icons.svg?v=1657181656#phone"></use></svg>
         </span></a>
         <a class="btn btn--square btn--callback-dropdown js-header-callback-toggle is-hidden--md-up" aria-label="Закажите бесплатный обратный звонок" role="button"><span class="btn__content">
             
-        <svg class="icon icon-phone icon--no-margins" width="19" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#phone" xlink:href="../assets/images/icons4a00.svg?v=1657181656#phone"></use></svg>
+        <svg class="icon icon-phone icon--no-margins" width="19" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#phone" xlink:href="/assets/images/icons.svg?v=1657181656#phone"></use></svg>
         </span></a>
     </div>
     <div class="header-callback__close"
@@ -267,7 +273,7 @@
     >
         <a class="btn btn--square btn--callback-dropdown js-header-callback-toggle" aria-label="Закрыть" role="button"><span class="btn__content">
             
-        <svg class="icon icon-btn-arrow-up icon--no-margins" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#btn-arrow-up" xlink:href="../assets/images/icons4a00.svg?v=1657181656#btn-arrow-up"></use></svg>
+        <svg class="icon icon-btn-arrow-up icon--no-margins" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#btn-arrow-up" xlink:href="/assets/images/icons.svg?v=1657181656#btn-arrow-up"></use></svg>
         </span></a>
     </div>
     <div class="header-callback__dropdown"
@@ -282,10 +288,10 @@
         >
             <span class="btn__content">
                 
-        <svg class="icon icon-phone-small" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#phone-small" xlink:href="../assets/images/icons4a00.svg?v=1657181656#phone-small"></use></svg>
+        <svg class="icon icon-phone-small" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#phone-small" xlink:href="/assets/images/icons.svg?v=1657181656#phone-small"></use></svg>
             </span>
             <span class="btn__hover-label">
-                Request a callback
+                Обратный звонок
             </span>
         </a>
         <a
@@ -296,10 +302,10 @@
         >
             <span class="btn__content">
                 
-        <svg class="icon icon-taxi" width="26" height="10" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#taxi" xlink:href="../assets/images/icons4a00.svg?v=1657181656#taxi"></use></svg>
+        <svg class="icon icon-taxi" width="26" height="10" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#taxi" xlink:href="/assets/images/icons.svg?v=1657181656#taxi"></use></svg>
             </span>
             <span class="btn__hover-label">
-                Book a taxi
+                Заказать такси
             </span>
         </a>
     </div>
@@ -314,13 +320,13 @@
      data-popover-position="bottom-end"
 >
     <div class="popover__content header-choice ui-light-background">
-        <a href="visual-search.html" class="header-choice__link header-choice__left btn-container js-popover-link">
+        <a href="/visual-search" class="header-choice__link header-choice__left btn-container js-popover-link">
             <div class="header-choice__hover"></div>
             <div class="header-choice__content">
 
                 <p class="text--crop text--color-text">
-                    Visual selection <br />
-of apartments
+                    Визуальный<br />
+выбор квартир
                 </p>
 
                 
@@ -333,7 +339,7 @@ of apartments
                     width="196"
             
                     height="144"
-                                data-plugin="appear " data-src="../assets/images/about/9.choice/header4a00.png?v=1657181656"
+                                data-plugin="appear " data-src="/assets/images/about/9.choice/header.png?v=1657181656"
                 src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22196%22%20height=%22144%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20196%20144%22%3E%3C/svg%3E"    />
 
                 <noscript>
@@ -346,23 +352,23 @@ of apartments
                     width="196"
             
                     height="144"
-                                src="../assets/images/about/9.choice/header4a00.png?v=1657181656"    />
+                                src="/assets/images/about/9.choice/header.png?v=1657181656"    />
 
         
         </noscript>
 
                 <span class="btn btn--square btn--icon btn--secondary-lighter-with-hover"><span class="btn__content">
                     
-        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#eye" xlink:href="../assets/images/icons4a00.svg?v=1657181656#eye"></use></svg>
+        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#eye" xlink:href="/assets/images/icons.svg?v=1657181656#eye"></use></svg>
                 </span></span>
             </div>
         </a>
-        <a href="flats.html" class="header-choice__link header-choice__right text--right btn-container js-popover-link">
+        <a href="/flats" class="header-choice__link header-choice__right text--right btn-container js-popover-link">
             <div class="header-choice__hover"></div>
             <div class="header-choice__content">
                 <p class="text--crop text--color-text">
-                    Filter <br />
-by features
+                    Выбор<br />
+по параметрам
                 </p>
 
                 <span class="btn btn--square btn--icon btn--secondary-lighter-with-hover header-choice__right__button">
@@ -374,7 +380,7 @@ by features
 
                     <span class="btn__content">
                         
-        <svg class="icon icon-settings" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#settings" xlink:href="../assets/images/icons4a00.svg?v=1657181656#settings"></use></svg>
+        <svg class="icon icon-settings" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#settings" xlink:href="/assets/images/icons.svg?v=1657181656#settings"></use></svg>
                     </span>
                 </span>
             </div>
@@ -392,13 +398,13 @@ by features
     data-popover-ignore-first-click="false"
 >
     <div class="popover__content header-choice ui-light-background">
-        <a href="visual-search.html" class="header-choice__link header-choice__left btn-container js-popover-link">
+        <a href="/visual-search" class="header-choice__link header-choice__left btn-container js-popover-link">
             <div class="header-choice__hover"></div>
             <div class="header-choice__content">
 
                 <p class="text--crop text--color-text">
-                    Visual selection <br />
-of apartments
+                    Визуальный<br />
+выбор квартир
                 </p>
 
                 
@@ -411,7 +417,7 @@ of apartments
                     width="196"
             
                     height="144"
-                                data-plugin="appear " data-src="../assets/images/about/9.choice/header4a00.png?v=1657181656"
+                                data-plugin="appear " data-src="/assets/images/about/9.choice/header.png?v=1657181656"
                 src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22196%22%20height=%22144%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20196%20144%22%3E%3C/svg%3E"    />
 
                 <noscript>
@@ -424,23 +430,23 @@ of apartments
                     width="196"
             
                     height="144"
-                                src="../assets/images/about/9.choice/header4a00.png?v=1657181656"    />
+                                src="/assets/images/about/9.choice/header.png?v=1657181656"    />
 
         
         </noscript>
 
                 <span class="btn btn--square btn--icon btn--secondary-lighter-with-hover"><span class="btn__content">
                     
-        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#eye" xlink:href="../assets/images/icons4a00.svg?v=1657181656#eye"></use></svg>
+        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#eye" xlink:href="/assets/images/icons.svg?v=1657181656#eye"></use></svg>
                 </span></span>
             </div>
         </a>
-        <a href="flats.html" class="header-choice__link header-choice__right text--right btn-container js-popover-link">
+        <a href="/flats" class="header-choice__link header-choice__right text--right btn-container js-popover-link">
             <div class="header-choice__hover"></div>
             <div class="header-choice__content">
                 <p class="text--crop text--color-text">
-                    Filter <br />
-by features
+                    Выбор<br />
+по параметрам
                 </p>
 
                 <span class="btn btn--square btn--icon btn--secondary-lighter-with-hover header-choice__right__button">
@@ -452,7 +458,7 @@ by features
 
                     <span class="btn__content">
                         
-        <svg class="icon icon-settings" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#settings" xlink:href="../assets/images/icons4a00.svg?v=1657181656#settings"></use></svg>
+        <svg class="icon icon-settings" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#settings" xlink:href="/assets/images/icons.svg?v=1657181656#settings"></use></svg>
                     </span>
                 </span>
             </div>
@@ -466,498 +472,28 @@ by features
             >
                 <main>
                         <section
-    data-scroll-section
-    class="section page-intro ui-olive ui-olive-background"
->
-    <div class="container-h">
-        <h1 class="page-intro__title">News and Offers</h1>
-    </div>
-</section>
+        data-scroll-section
+        class="section section--no-overflow ui-olive page-404"
+    >   
+        <div class="page-404__content">
+            <svg class="page-404__content__deco" width="1204" height="336" viewBox="0 0 1204 336" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M969 2H967V4V25V27H969H1150H1152V25V4V2H1150H969ZM160.607 4.05496V2.05496H158.607H0H-2V4.05496V25V27H0H158.607H160.607V25V4.05496ZM161.32 307.078V305.078H159.32H23.7416V206.544H149.34H151.34V204.544V184.251V182.251H149.34H23.7416V87.2774H158.607H160.607V85.2774V64.6282V62.6282H158.607H0H-2V64.6282V327.728V329.728H0H159.32H161.32V327.728V307.078ZM218.124 63.3868L217.523 62.6282H216.556H206.933H204.933V64.6282V327.728V329.728H206.933H228.674H230.674V327.728V119.51L396.405 328.969L397.006 329.728H397.974H409.379H411.379V327.728V64.6282V62.6282H409.379H387.638H385.638V64.6282V274.984L218.124 63.3868ZM472.081 327.728V329.728H474.081H495.822H497.822V327.728V64.6282V62.6282H495.822H474.081H472.081V64.6282V327.728ZM631.51 329.728H633.51V327.728V87.6334H711.348H713.348V85.6334V64.6282V62.6282H711.348H529.93H527.93V64.6282V85.6334V87.6334H529.93H607.768V327.728V329.728H609.768H631.51ZM904.906 329.728H906.906V327.728V307.078V305.078H904.906H769.328V206.544H894.927H896.927V204.544V184.251V182.251H894.927H769.328V87.2774H904.194H906.194V85.2774V64.6282V62.6282H904.194H745.587H743.587V64.6282V327.728V329.728H745.587H904.906ZM1063.85 334C1102.15 334 1134.74 320.624 1161.49 293.541C1188.6 266.464 1202 233.912 1202 196C1202 158.087 1188.6 125.536 1161.49 98.4592C1134.74 71.382 1102.51 57.9999 1064.56 57.9999C1026.6 57.9999 994.007 71.7468 967.26 98.8247C940.515 125.901 927.121 158.448 927.121 196.712C927.121 234.619 940.514 267.166 966.904 293.887C993.307 320.622 1025.9 334 1063.85 334ZM1064.56 308.995C1033.36 308.995 1006.79 298.16 985.439 276.486C964.066 254.434 953.219 227.878 953.219 196.356C953.219 164.833 964.066 138.278 985.439 116.226C1007.17 94.1763 1033.38 83.0051 1064.56 83.0051C1095.76 83.0051 1121.97 93.835 1143.32 115.863C1164.69 137.915 1175.55 164.471 1175.55 196.356C1175.55 227.877 1164.7 254.431 1143.33 276.482C1121.97 298.163 1095.76 308.995 1064.56 308.995Z" fill="none" stroke="#2C2926" stroke-width="4"/>
+            </svg>
 
-
-    
-<section class="section ui-olive-background ui-light news-lists" data-scroll-section>
-    <div data-plugin="ajaxList"
-        data-ajax-list-endpoint="/en/api/news.json"
-        data-ajax-list-endpoint-method="GET"
-        data-ajax-list-remove-siblings="true"
-        data-ajax-list-reload-on-filter-change="true"
-        data-ajax-list-change-hash="true"
-    >
-        <div class="row">
-            <div class="col col--xs-8 col--xl-4 pl-1 pb-2 pb-1:md pr-1 pr-0:xl js-ajax-filters">
-                <div class="form-control-select news-lists__sort" data-plugin="selectInput">
-                    <label class="form-control-select__fake btn btn--primary ">
-                        <span class="btn__content">
-                            <span class="form-control-select__fake__label js-input-select-fake-label text--default-medium text--crop">
-                                All types
-                            </span>
-                            
-        <svg class="icon icon-dropdown form-control-select__fake__icon" width="12" height="10" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#dropdown" xlink:href="../assets/images/icons4a00.svg?v=1657181656#dropdown"></use></svg>
-                        </span>
-                    </label>
-                    <select name="sort" id="sort" class="is-invisible">
-                        <option value="" selected>All types</option>
-                        <option value="news" >News</option>
-                        <option value="promo" >Offers</option>
-                    </select>
-                </div>
+            <div class="page-404__content__title">
+                <h1 class="h2 text--crop">
+                    Страница<br /> не найдена
+                </h1>
             </div>
-            <div class="col col--xs-8 col--xl-8 pl-1 pr-1 pl-0:xl">
-                <div class="js-ajax-list row news-lists__grid block">
-                                            <div class="col col--xs-8 col--md-6 news-lists__grid__item">
-    <a href="news/ne-otkladyvat-na-potom-kvartira-mashinomesto-kladovaia-teper-dostupny-po-kombo-ipoteke-ot-tekta-group.html" class="card-news" data-ajax-page-transition="modal-in">
-        <figure class="card-news__image ">
-                        
-                
-    
-        
-    <picture class="is-invisible--js "                    data-plugin="appear "             draggable="false"    ><img
-            
-                data-src="../uploads/8085920f74f78be8d0dfc81ea8345ce64a00.png?v=1657181656"
-                src="../assets/images/px4a00.gif?v=1657181656"        alt="Не откладывать на потом: квартира + машиноместо + кладовая теперь доступны по комбо-ипотеке от Tekta Group"            
-        class=" is-hidden--no-js"
-        draggable="false"
-        />
-    </picture>
-
-                    <noscript>
-            
-    
-    
-        
-    <picture class=" "                 draggable="false"    ><img
-            src="../uploads/8085920f74f78be8d0dfc81ea8345ce64a00.png?v=1657181656"        alt="Не откладывать на потом: квартира + машиноместо + кладовая теперь доступны по комбо-ипотеке от Tekta Group"            
-        class=" "
-        draggable="false"
-        />
-    </picture>
-
-            
-        </noscript>
-    
-                    </figure>
-        <div class="card-news__footer">
-            <time datetime="2022-07-05 15:01" class="card-news__date">
-                <div class="card-news__date__date text--color-accent ">
-                    05
-                </div>
-                <div class="card-news__date__month text--color-additional-quartz">
-                    July
-                </div>
-            </time>
-            <h2 class="card-news__title text--crop">
-                Не откладывать на потом: квартира + машиноместо + кладовая теперь доступны по комбо-ипотеке от Tekta Group
-            </h2>
+            <a href="/" class="btn btn--outline btn--secondary btn--md page-404__content__button"><span class="btn__content">
+                <span class="btn__text">Вернуться на главную</span>
+            </span></a>
         </div>
-    </a>
-</div>
-                                            <div class="col col--xs-8 col--md-6 news-lists__grid__item">
-    <a href="news/tekta-group-sovmestno-s-mkb-zapuskaet-ipotechnuiu-programmu-po-stavke-ot-0-01.html" class="card-news" data-ajax-page-transition="modal-in">
-        <figure class="card-news__image ">
-                        
-                
-    
-        
-    <picture class="is-invisible--js "                    data-plugin="appear "             draggable="false"    ><img
-            
-                data-src="../uploads/2aa313f80e7c56e81a3571b6cdc2702b4a00.jpg?v=1657181656"
-                src="../assets/images/px4a00.gif?v=1657181656"        alt="Tekta Group совместно с МКБ запускает ипотечную программу по ставке от 0,01%"            
-        class=" is-hidden--no-js"
-        draggable="false"
-        />
-    </picture>
 
-                    <noscript>
-            
-    
-    
-        
-    <picture class=" "                 draggable="false"    ><img
-            src="../uploads/2aa313f80e7c56e81a3571b6cdc2702b4a00.jpg?v=1657181656"        alt="Tekta Group совместно с МКБ запускает ипотечную программу по ставке от 0,01%"            
-        class=" "
-        draggable="false"
-        />
-    </picture>
-
-            
-        </noscript>
-    
-                    </figure>
-        <div class="card-news__footer">
-            <time datetime="2022-06-17 16:57" class="card-news__date">
-                <div class="card-news__date__date text--color-accent ">
-                    17
-                </div>
-                <div class="card-news__date__month text--color-additional-quartz">
-                    June
-                </div>
-            </time>
-            <h2 class="card-news__title text--crop">
-                Tekta Group совместно с МКБ запускает ипотечную программу по ставке от 0,01%
-            </h2>
-        </div>
-    </a>
-</div>
-                                            <div class="col col--xs-8 col--md-6 news-lists__grid__item">
-    <a href="news/pozvolit-sebe-bolshee-c-tekta-group-summa-zaima-po-lgotnoi-ipoteke-uvelichena-do-20-mln-rublei.html" class="card-news" data-ajax-page-transition="modal-in">
-        <figure class="card-news__image ">
-                        
-                
-    
-        
-    <picture class="is-invisible--js "                    data-plugin="appear "             draggable="false"    ><img
-            
-                data-src="../uploads/744114c106c01cdbfa7650653e304dd74a00.png?v=1657181656"
-                src="../assets/images/px4a00.gif?v=1657181656"        alt="Позволить себе большее c Tekta Group: сумма займа по льготной ипотеке увеличена до 20 млн рублей"            
-        class=" is-hidden--no-js"
-        draggable="false"
-        />
-    </picture>
-
-                    <noscript>
-            
-    
-    
-        
-    <picture class=" "                 draggable="false"    ><img
-            src="../uploads/744114c106c01cdbfa7650653e304dd74a00.png?v=1657181656"        alt="Позволить себе большее c Tekta Group: сумма займа по льготной ипотеке увеличена до 20 млн рублей"            
-        class=" "
-        draggable="false"
-        />
-    </picture>
-
-            
-        </noscript>
-    
-                    </figure>
-        <div class="card-news__footer">
-            <time datetime="2022-06-14 12:42" class="card-news__date">
-                <div class="card-news__date__date text--color-accent ">
-                    14
-                </div>
-                <div class="card-news__date__month text--color-additional-quartz">
-                    June
-                </div>
-            </time>
-            <h2 class="card-news__title text--crop">
-                Позволить себе большее c Tekta Group: сумма займа по льготной ипотеке увеличена до 20 млн рублей
-            </h2>
-        </div>
-    </a>
-</div>
-                                            <div class="col col--xs-8 col--md-6 news-lists__grid__item">
-    <a href="news/blestiashchee-voploshchenie-eniteo-na-bashniakh-neboskrebov-nachalis-fasadnye-raboty.html" class="card-news" data-ajax-page-transition="modal-in">
-        <figure class="card-news__image ">
-                        
-                
-    
-        
-    <picture class="is-invisible--js "                    data-plugin="appear "             draggable="false"    ><img
-            
-                data-src="../uploads/8aa08b31a530ea72d8c491b6c7caf8554a00.jpg?v=1657181656"
-                src="../assets/images/px4a00.gif?v=1657181656"        alt="Блестящее воплощение ENITEO: на башнях небоскребов начались фасадные работы"            
-        class=" is-hidden--no-js"
-        draggable="false"
-        />
-    </picture>
-
-                    <noscript>
-            
-    
-    
-        
-    <picture class=" "                 draggable="false"    ><img
-            src="../uploads/8aa08b31a530ea72d8c491b6c7caf8554a00.jpg?v=1657181656"        alt="Блестящее воплощение ENITEO: на башнях небоскребов начались фасадные работы"            
-        class=" "
-        draggable="false"
-        />
-    </picture>
-
-            
-        </noscript>
-    
-                    </figure>
-        <div class="card-news__footer">
-            <time datetime="2022-06-07 15:06" class="card-news__date">
-                <div class="card-news__date__date text--color-accent ">
-                    07
-                </div>
-                <div class="card-news__date__month text--color-additional-quartz">
-                    June
-                </div>
-            </time>
-            <h2 class="card-news__title text--crop">
-                Блестящее воплощение ENITEO: на башнях небоскребов начались фасадные работы
-            </h2>
-        </div>
-    </a>
-</div>
-                                            <div class="col col--xs-8 col--md-6 news-lists__grid__item">
-    <a href="news/novaia-kvartira-ot-tekta-group-po-subsidirovannoi-stavke-ot-8-1-godovykh.html" class="card-news" data-ajax-page-transition="modal-in">
-        <figure class="card-news__image ">
-                        
-                
-    
-        
-    <picture class="is-invisible--js "                    data-plugin="appear "             draggable="false"    ><img
-            
-                data-src="../uploads/af8b54b15b9dc3e61bf35dfc6f65c81e4a00.jpg?v=1657181656"
-                src="../assets/images/px4a00.gif?v=1657181656"        alt="Новая квартира от Tekta Group — по субсидированной ставке от  8,1% годовых"            
-        class=" is-hidden--no-js"
-        draggable="false"
-        />
-    </picture>
-
-                    <noscript>
-            
-    
-    
-        
-    <picture class=" "                 draggable="false"    ><img
-            src="../uploads/af8b54b15b9dc3e61bf35dfc6f65c81e4a00.jpg?v=1657181656"        alt="Новая квартира от Tekta Group — по субсидированной ставке от  8,1% годовых"            
-        class=" "
-        draggable="false"
-        />
-    </picture>
-
-            
-        </noscript>
-    
-                    </figure>
-        <div class="card-news__footer">
-            <time datetime="2022-04-29 17:25" class="card-news__date">
-                <div class="card-news__date__date text--color-accent ">
-                    29
-                </div>
-                <div class="card-news__date__month text--color-additional-quartz">
-                    April
-                </div>
-            </time>
-            <h2 class="card-news__title text--crop">
-                Новая квартира от Tekta Group — по субсидированной ставке от  8,1% годовых
-            </h2>
-        </div>
-    </a>
-</div>
-                                            <div class="col col--xs-8 col--md-6 news-lists__grid__item">
-    <a href="news/eshchio-vyshe-monolitnye-raboty-v-eniteo-zaversheny-bolee-chem-na-50.html" class="card-news" data-ajax-page-transition="modal-in">
-        <figure class="card-news__image ">
-                        
-                
-    
-        
-    <picture class="is-invisible--js "                    data-plugin="appear "             draggable="false"    ><img
-            
-                data-src="../uploads/c445fa755b94addc05d21d5f92ce34e84a00.jpg?v=1657181656"
-                src="../assets/images/px4a00.gif?v=1657181656"        alt="Ещё выше: монолитные работы в ENITEO завершены более чем на 50%"            
-        class=" is-hidden--no-js"
-        draggable="false"
-        />
-    </picture>
-
-                    <noscript>
-            
-    
-    
-        
-    <picture class=" "                 draggable="false"    ><img
-            src="../uploads/c445fa755b94addc05d21d5f92ce34e84a00.jpg?v=1657181656"        alt="Ещё выше: монолитные работы в ENITEO завершены более чем на 50%"            
-        class=" "
-        draggable="false"
-        />
-    </picture>
-
-            
-        </noscript>
-    
-                    </figure>
-        <div class="card-news__footer">
-            <time datetime="2022-04-08 15:22" class="card-news__date">
-                <div class="card-news__date__date text--color-accent ">
-                    08
-                </div>
-                <div class="card-news__date__month text--color-additional-quartz">
-                    April
-                </div>
-            </time>
-            <h2 class="card-news__title text--crop">
-                Ещё выше: монолитные работы в ENITEO завершены более чем на 50%
-            </h2>
-        </div>
-    </a>
-</div>
-                                        
-<script type="text/template" data-template-variable="card">
-    <div class="col col--xs-8 col--md-6 news-lists__grid__item">
-        <a href="<%- card.url %>" class="card-news" data-ajax-page-transition="modal-in">
-            <figure class="card-news__image <% if (!card.image) { %>card-news__image--no-image<% } %>">
-                <% if (card.image) { %>
-                    
-    
-    
-        
-    <picture class=" "                 draggable="false"    ><img
-            src="<%- card.image %>"        alt="&lt;%- item.title %&gt;"            
-        class=" "
-        draggable="false"
-        />
-    </picture>
-
-            
-                <% } %>
-            </figure>
-            <div class="card-news__footer">
-                <time datetime="<%- card.publishAt %>" class="card-news__date">
-                    <div class="card-news__date__date text--color-accent <% if (!card.image) { %>card-news__date__date--no-image<% } %>">
-                        <%- card.publishDate %>
-                    </div>
-                    <div class="card-news__date__month text--color-additional-quartz">
-                        <%- card.publishMonth %>
-                    </div>
-                </time>
-                <div class="card-news__title text--crop">
-                    <%- card.title %>
-                </div>
-            </div>
-        </a>
-    </div>
-</script>
-                </div>
-                                    <div class="news-lists__footer ui-olive pr-0-5:md ui-dark">
-                        <a class="btn btn--outline btn--primary--transparent btn--sm-big btn--primary--border-pink js-load-more is-hidden--md-up " role="button">
-                            <span class="btn__content">
-                                <span class="btn__text">Show more</span>
-                            </span>
-                        </a>
-                        <a class="btn btn--large js-load-more btn--outline btn--primary--transparent btn--primary--border-pink is-hidden--xs-down " role="button">
-                            <span class="btn__content">
-                                <span class="btn__text">Show more</span>
-                            </span>
-                        </a>
-                    </div>
-                            </div>
-        </div>
-    </div>
-</section>
+    </section>
                 </main>
 
-                                                            
-<footer
-    data-scroll-section
-    class="section section--top section--no-overflow footer ui-dark ui-dark-background is-hidden--print" data-theme="light"
-    data-plugin="callbackPosition"
-    data-callback-position-enable-mq="sm-down"
->
-    <div class="row">
-        <div class="col--xs-8 col--md-6 footer__left">
-            <div class="footer__left__phone">
-                <a href="tel:+74957974949">+7 495 797 49 49</a>
-            </div>
-            <div class="footer__left__sales text--crop">
-                <span class="footer__left__sales__title">Sales office:</span>
-                45 Dmitry Ulyanov street, <br />
-Moscow
-
-            </div>
-            <div class="footer__left__times text--crop footer__left__fill">
-                <span class="text--color-accent">9am - 9pm every day</span>
-            </div>
-            <div class="footer__left__button">
-                <a class="btn btn--primary btn--outline btn--sm" href="https://yandex.ru/maps/213/moscow/house/ulitsa_dmitriya_ulyanova_45/Z04Ycw5kT0YPQFtvfXp5cHxkYw==/?ll=37.594638%2C55.681078&amp;z=17.05" target="_blank" rel="noopener">
-                    <span class="btn__content">
-                        <span class="btn__text">Open map</span>
-                    </span>
-                </a>
-
-                <div class="footer__social is-hidden--md-up">
-                            
-                                                            
-    
-    <a
-        class="
-            btn btn--sm btn--square btn--outline btn--primary--transparent--favorite
-                                "
-                                    target="blank" rel="noopener"
-                                        href="http://vk.com/eniteo.tekta"
-                                                                >
-        <span class="btn__content ">
-                                        
-        <svg class="icon icon-vk btn__icon " width="25" height="15" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#vk" xlink:href="../assets/images/icons4a00.svg?v=1657181656#vk"></use></svg>
-                    </span>
-    </a>
-
-                </div>
-                
-            </div>
-        </div>
-        <div class="col--xs-8 col--md-6 footer__right">
-                        <div class="footer__text footer__right__fill">
-                <p class="text--tiny">
-                    ANY INFORMATION PROVIDED ON THIS WEBSITE IS FOR INFORMATION PURPOSES ONLY AND UNDER NO CIRCUMSTANCES CONSTITUTES A PUBLIC OFFER AS DEFINED BY ARTICLE 437 OF THE CIVIL CODE OF THE RUSSIAN FEDERATION. FINISHED OBJECTS MAY DIFFER FROM THE 3D-VISUALISATIONS. ALL THE MATERIALS PRESENTED ARE INDICATIVE AND SUBJECT TO ANY CHANGES.                </p>
-            </div>
-            <div class="footer__copy text--small">
-                <span class="footer__copy__copy text--crop">&copy; Tekta Group</span>
-
-                <div class="footer__copy__line text--crop">
-                    <a 
-                        href="https://www.videinfra.com/" 
-                        target="_blank" 
-                        rel="noopener" 
-                        title="Luxury real estate website design" 
-                        class="footer__copy__vig"
-                    >
-                        Site designed by Vide Infra
-                    </a>
-
-                    <a 
-                        href="https://videinfra.com/blog/luxury-real-estate-website-design" 
-                        target="_blank" 
-                        rel="noopener" 
-                        title="Luxury real estate website design"
-                        class="footer__copy__vig-image" 
-                    >
-                        
-    
-    
-        
-    <img class="img-full "
-         draggable="false"                    
-                    width="40"
-            
-                    height="40"
-            
-                    alt="Luxury real estate website design"
-                                src="../assets/images/footer/videinfra8e1a.png?v=1657181656?v=1657181656"    />
-
-        
-                    </a>
-                </div>
-                
-                <div class="footer__social is-hidden--sm-down">
-                            
-                                                            
-    
-    <a
-        class="
-            btn btn--square btn--outline btn--primary--transparent--favorite
-                                "
-                                    target="blank" rel="noopener"
-                                        href="http://vk.com/eniteo.tekta"
-                                                                >
-        <span class="btn__content ">
-                                        
-        <svg class="icon icon-vk btn__icon " width="25" height="15" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#vk" xlink:href="../assets/images/icons4a00.svg?v=1657181656#vk"></use></svg>
-                    </span>
-    </a>
-
-                </div>
-            
-            </div>
-        </div>
-    </div>
-</footer>
-                                                </div>
+                                                                </div>
         
                 <div class="js-modal">
                             
@@ -981,7 +517,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/9.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Documents"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Документы"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -994,7 +530,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/9-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/98e1a.jpg?v=1657181656?v=1657181656"        alt="Documents"            
+            src="/assets/images/menu/9.jpg?v=1657181656?v=1657181656"        alt="Документы"            
         class=" "
         draggable="false"
         />
@@ -1014,7 +550,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/10.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Contacts"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Контакты"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1027,7 +563,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/10-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/108e1a.jpg?v=1657181656?v=1657181656"        alt="Contacts"            
+            src="/assets/images/menu/10.jpg?v=1657181656?v=1657181656"        alt="Контакты"            
         class=" "
         draggable="false"
         />
@@ -1047,7 +583,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/1.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="About"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="О проекте"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1060,7 +596,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/1-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/18e1a.jpg?v=1657181656?v=1657181656"        alt="About"            
+            src="/assets/images/menu/1.jpg?v=1657181656?v=1657181656"        alt="О проекте"            
         class=" "
         draggable="false"
         />
@@ -1080,7 +616,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/2.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Location"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Расположение"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1093,7 +629,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/2-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/28e1a.jpg?v=1657181656?v=1657181656"        alt="Location"            
+            src="/assets/images/menu/2.jpg?v=1657181656?v=1657181656"        alt="Расположение"            
         class=" "
         draggable="false"
         />
@@ -1113,7 +649,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/4.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Infrastructure"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Инфраструктура"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1126,7 +662,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/4-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/48e1a.jpg?v=1657181656?v=1657181656"        alt="Infrastructure"            
+            src="/assets/images/menu/4.jpg?v=1657181656?v=1657181656"        alt="Инфраструктура"            
         class=" "
         draggable="false"
         />
@@ -1146,7 +682,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/2.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Panorama"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Панорама"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1159,7 +695,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/2-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/28e1a.jpg?v=1657181656?v=1657181656"        alt="Panorama"            
+            src="/assets/images/menu/2.jpg?v=1657181656?v=1657181656"        alt="Панорама"            
         class=" "
         draggable="false"
         />
@@ -1179,7 +715,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/5.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Gallery"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Галерея"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1192,7 +728,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/5-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/58e1a.jpg?v=1657181656?v=1657181656"        alt="Gallery"            
+            src="/assets/images/menu/5.jpg?v=1657181656?v=1657181656"        alt="Галерея"            
         class=" "
         draggable="false"
         />
@@ -1212,7 +748,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/3.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="How to buy"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Как купить"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1225,7 +761,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/3-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/38e1a.jpg?v=1657181656?v=1657181656"        alt="How to buy"            
+            src="/assets/images/menu/3.jpg?v=1657181656?v=1657181656"        alt="Как купить"            
         class=" "
         draggable="false"
         />
@@ -1258,7 +794,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/8-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/88e1a.jpg?v=1657181656?v=1657181656"        alt="Паркинг и кладовые"            
+            src="/assets/images/menu/8.jpg?v=1657181656?v=1657181656"        alt="Паркинг и кладовые"            
         class=" "
         draggable="false"
         />
@@ -1278,7 +814,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/6.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Construction progress"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Ход строительства"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1291,7 +827,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/6-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/68e1a.jpg?v=1657181656?v=1657181656"        alt="Construction progress"            
+            src="/assets/images/menu/6.jpg?v=1657181656?v=1657181656"        alt="Ход строительства"            
         class=" "
         draggable="false"
         />
@@ -1311,7 +847,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/7.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Developer"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Застройщик"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1324,7 +860,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/7-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/78e1a.jpg?v=1657181656?v=1657181656"        alt="Developer"            
+            src="/assets/images/menu/7.jpg?v=1657181656?v=1657181656"        alt="Застройщик"            
         class=" "
         draggable="false"
         />
@@ -1344,7 +880,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/8.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="News and Offers"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Новости и Акции"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1357,7 +893,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/8-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/88e1a.jpg?v=1657181656?v=1657181656"        alt="News and Offers"            
+            src="/assets/images/menu/8.jpg?v=1657181656?v=1657181656"        alt="Новости и Акции"            
         class=" "
         draggable="false"
         />
@@ -1377,7 +913,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/9.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Documents"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Документы"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1390,7 +926,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/9-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/98e1a.jpg?v=1657181656?v=1657181656"        alt="Documents"            
+            src="/assets/images/menu/9.jpg?v=1657181656?v=1657181656"        alt="Документы"            
         class=" "
         draggable="false"
         />
@@ -1410,7 +946,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/10.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Contacts"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Контакты"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1423,7 +959,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/10-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/108e1a.jpg?v=1657181656?v=1657181656"        alt="Contacts"            
+            src="/assets/images/menu/10.jpg?v=1657181656?v=1657181656"        alt="Контакты"            
         class=" "
         draggable="false"
         />
@@ -1443,7 +979,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/1.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="About"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="О проекте"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1456,7 +992,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/1-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/18e1a.jpg?v=1657181656?v=1657181656"        alt="About"            
+            src="/assets/images/menu/1.jpg?v=1657181656?v=1657181656"        alt="О проекте"            
         class=" "
         draggable="false"
         />
@@ -1476,7 +1012,7 @@ Moscow
 <img
             
                 data-src="/assets/images/menu/2.jpg?v=1657181656?v=1657181656"
-                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Location"            
+                src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22480%22%20height=%22540%22%20preserveAspectRatio=%22xMinYMax%20meet%22%20viewBox=%220%200%20480%20540%22%3E%3C/svg%3E"        alt="Расположение"            
         class=" is-hidden--no-js"
         draggable="false"
         />
@@ -1489,7 +1025,7 @@ Moscow
         
     <picture class=" "                 draggable="false"    ><source srcset="/assets/images/menu/2-xxxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 1200px) and (min-height: 600px)"/>
 <img
-            src="../assets/images/menu/28e1a.jpg?v=1657181656?v=1657181656"        alt="Location"            
+            src="/assets/images/menu/2.jpg?v=1657181656?v=1657181656"        alt="Расположение"            
         class=" "
         draggable="false"
         />
@@ -1510,15 +1046,15 @@ Moscow
         <div class="col col--xs-auto col--md-3 pl-1 modal__animation-button">
             <a class="btn btn--square btn--dark-header js-modal-close" aria-label="Закрыть меню" role="button" tabindex="0"><span class="btn__content">
                 
-        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#close" xlink:href="../assets/images/icons4a00.svg?v=1657181656#close"></use></svg>
+        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#close" xlink:href="/assets/images/icons.svg?v=1657181656#close"></use></svg>
             </span></a>
         </div>
 
         <div class="col col--md-3 text-center text-left:md modal__header__logo modal__animation-logo">
-            <a class="btn btn--header btn--extended-area btn--link" aria-label="На целевую страницу" href="index.html">
+            <a class="btn btn--header btn--extended-area btn--link" aria-label="На целевую страницу" href="/">
                 <span class="btn__content">
                     
-        <svg class="icon icon-logo logo" width="141" height="46" viewBox="0 0 141 46" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#logo" xlink:href="../assets/images/icons4a00.svg?v=1657181656#logo"></use></svg>
+        <svg class="icon icon-logo logo" width="141" height="46" viewBox="0 0 141 46" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#logo" xlink:href="/assets/images/icons.svg?v=1657181656#logo"></use></svg>
                 </span>
             </a>
         </div>
@@ -1531,19 +1067,19 @@ Moscow
                 <a class="btn btn--square btn--outline btn--primary--transparent--favorite--static is-hidden--xs" aria-label="Избранное" role="button" href="#favourites" data-ajax-page-transition="modal-in">
                     <span class="btn__content">
                         
-        <svg class="icon icon-favourite" width="18" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#favourite" xlink:href="../assets/images/icons4a00.svg?v=1657181656#favourite"></use></svg>
+        <svg class="icon icon-favourite" width="18" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#favourite" xlink:href="/assets/images/icons.svg?v=1657181656#favourite"></use></svg>
                     </span>
                 </a>
 
                                 <a class="btn btn--dark-header is-hidden--lg-down"  id="apartment-modal"><span class="btn__content">
                     
-        <svg class="icon icon-settings icon--with-margins-large-desktop" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#settings" xlink:href="../assets/images/icons4a00.svg?v=1657181656#settings"></use></svg>
-                    <span class="btn__text">Select apartment</span>
+        <svg class="icon icon-settings icon--with-margins-large-desktop" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#settings" xlink:href="/assets/images/icons.svg?v=1657181656#settings"></use></svg>
+                    <span class="btn__text">Выбрать квартиру</span>
                 </span></a>
 
 
-                                    <a class="btn btn--dark-header is-hidden--md-up" href="flats.html" id="apartment-mobile-modal"><span class="btn__content">
-                       Apartments
+                                    <a class="btn btn--dark-header is-hidden--md-up" href="/flats" id="apartment-mobile-modal"><span class="btn__content">
+                       Квартиры
                     </span></a>
 
 
@@ -1559,7 +1095,7 @@ Moscow
                         >
                             <a class="btn btn--square btn--callback js-header-callback-toggle is-hidden--sm-down" aria-label="Закажите бесплатный обратный звонок" role="button"><span class="btn__content">
                                 
-        <svg class="icon icon-phone icon--no-margins" width="19" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#phone" xlink:href="../assets/images/icons4a00.svg?v=1657181656#phone"></use></svg>
+        <svg class="icon icon-phone icon--no-margins" width="19" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#phone" xlink:href="/assets/images/icons.svg?v=1657181656#phone"></use></svg>
                             </span></a>
                         </div>
                         <div class="header-callback__close"
@@ -1568,7 +1104,7 @@ Moscow
                         >
                             <a class="btn btn--square btn--callback-dropdown js-header-callback-toggle" aria-label="Закрыть" role="button"><span class="btn__content">
                                 
-        <svg class="icon icon-btn-arrow-up icon--no-margins" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#btn-arrow-up" xlink:href="../assets/images/icons4a00.svg?v=1657181656#btn-arrow-up"></use></svg>
+        <svg class="icon icon-btn-arrow-up icon--no-margins" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#btn-arrow-up" xlink:href="/assets/images/icons.svg?v=1657181656#btn-arrow-up"></use></svg>
                             </span></a>
                         </div>
                         <div class="header-callback__dropdown"
@@ -1582,10 +1118,10 @@ Moscow
                             >
                                 <span class="btn__content">
                                     
-        <svg class="icon icon-phone-small" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#phone-small" xlink:href="../assets/images/icons4a00.svg?v=1657181656#phone-small"></use></svg>
+        <svg class="icon icon-phone-small" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#phone-small" xlink:href="/assets/images/icons.svg?v=1657181656#phone-small"></use></svg>
                                 </span>
                                 <span class="btn__hover-label">
-                                    Request a callback
+                                    Обратный звонок
                                 </span>
                             </a>
                             <a
@@ -1595,10 +1131,10 @@ Moscow
                             >
                                 <span class="btn__content">
                                     
-        <svg class="icon icon-taxi" width="26" height="10" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#taxi" xlink:href="../assets/images/icons4a00.svg?v=1657181656#taxi"></use></svg>
+        <svg class="icon icon-taxi" width="26" height="10" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#taxi" xlink:href="/assets/images/icons.svg?v=1657181656#taxi"></use></svg>
                                 </span>
                                 <span class="btn__hover-label">
-                                    Book a taxi
+                                    Заказать такси
                                 </span>
                             </a>
                         </div>
@@ -1618,13 +1154,13 @@ Moscow
      data-popover-position="bottom-end"
 >
     <div class="popover__content header-choice ui-light-background">
-        <a href="visual-search.html" class="header-choice__link header-choice__left btn-container js-popover-link">
+        <a href="/visual-search" class="header-choice__link header-choice__left btn-container js-popover-link">
             <div class="header-choice__hover"></div>
             <div class="header-choice__content">
 
                 <p class="text--crop text--color-text">
-                    Visual selection <br />
-of apartments
+                    Визуальный<br />
+выбор квартир
                 </p>
 
                 
@@ -1650,23 +1186,23 @@ of apartments
                     width="196"
             
                     height="144"
-                                src="../assets/images/about/9.choice/header4a00.png?v=1657181656"    />
+                                src="/assets/images/about/9.choice/header.png?v=1657181656"    />
 
         
         </noscript>
 
                 <span class="btn btn--square btn--icon btn--secondary-lighter-with-hover"><span class="btn__content">
                     
-        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#eye" xlink:href="../assets/images/icons4a00.svg?v=1657181656#eye"></use></svg>
+        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#eye" xlink:href="/assets/images/icons.svg?v=1657181656#eye"></use></svg>
                 </span></span>
             </div>
         </a>
-        <a href="flats.html" class="header-choice__link header-choice__right text--right btn-container js-popover-link">
+        <a href="/flats" class="header-choice__link header-choice__right text--right btn-container js-popover-link">
             <div class="header-choice__hover"></div>
             <div class="header-choice__content">
                 <p class="text--crop text--color-text">
-                    Filter <br />
-by features
+                    Выбор<br />
+по параметрам
                 </p>
 
                 <span class="btn btn--square btn--icon btn--secondary-lighter-with-hover header-choice__right__button">
@@ -1678,7 +1214,7 @@ by features
 
                     <span class="btn__content">
                         
-        <svg class="icon icon-settings" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#settings" xlink:href="../assets/images/icons4a00.svg?v=1657181656#settings"></use></svg>
+        <svg class="icon icon-settings" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#settings" xlink:href="/assets/images/icons.svg?v=1657181656#settings"></use></svg>
                     </span>
                 </span>
             </div>
@@ -1694,13 +1230,13 @@ by features
      data-popover-position="bottom-end"
 >
     <div class="popover__content header-choice ui-light-background">
-        <a href="visual-search.html" class="header-choice__link header-choice__left btn-container js-popover-link">
+        <a href="/visual-search" class="header-choice__link header-choice__left btn-container js-popover-link">
             <div class="header-choice__hover"></div>
             <div class="header-choice__content">
 
                 <p class="text--crop text--color-text">
-                    Visual selection <br />
-of apartments
+                    Визуальный<br />
+выбор квартир
                 </p>
 
                 
@@ -1726,23 +1262,23 @@ of apartments
                     width="196"
             
                     height="144"
-                                src="../assets/images/about/9.choice/header4a00.png?v=1657181656"    />
+                                src="/assets/images/about/9.choice/header.png?v=1657181656"    />
 
         
         </noscript>
 
                 <span class="btn btn--square btn--icon btn--secondary-lighter-with-hover"><span class="btn__content">
                     
-        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#eye" xlink:href="../assets/images/icons4a00.svg?v=1657181656#eye"></use></svg>
+        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#eye" xlink:href="/assets/images/icons.svg?v=1657181656#eye"></use></svg>
                 </span></span>
             </div>
         </a>
-        <a href="flats.html" class="header-choice__link header-choice__right text--right btn-container js-popover-link">
+        <a href="/flats" class="header-choice__link header-choice__right text--right btn-container js-popover-link">
             <div class="header-choice__hover"></div>
             <div class="header-choice__content">
                 <p class="text--crop text--color-text">
-                    Filter <br />
-by features
+                    Выбор<br />
+по параметрам
                 </p>
 
                 <span class="btn btn--square btn--icon btn--secondary-lighter-with-hover header-choice__right__button">
@@ -1754,7 +1290,7 @@ by features
 
                     <span class="btn__content">
                         
-        <svg class="icon icon-settings" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#settings" xlink:href="../assets/images/icons4a00.svg?v=1657181656#settings"></use></svg>
+        <svg class="icon icon-settings" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#settings" xlink:href="/assets/images/icons.svg?v=1657181656#settings"></use></svg>
                     </span>
                 </span>
             </div>
@@ -1765,37 +1301,37 @@ by features
         <div class="modal__footer is-hidden--print is-decorative">
         <div class="row container-v container-h">
             <div class="col--xs-1">
-                <a class="btn btn--outline is-hidden--xs not-decorative" aria-label="3D Tour" role="button" href="3d-tour.html">
+                <a class="btn btn--outline is-hidden--xs not-decorative" aria-label="3D Tour" role="button" href="/3d-tour">
                     <span class="btn__content">
                         
-        <svg class="icon icon-tour-modal" width="86" height="21" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#tour-modal" xlink:href="../assets/images/icons4a00.svg?v=1657181656#tour-modal"></use></svg>
+        <svg class="icon icon-tour-modal" width="86" height="21" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#tour-modal" xlink:href="/assets/images/icons.svg?v=1657181656#tour-modal"></use></svg>
                     </span>
                 </a>
             </div>
             <div class="col--xs-fill col--md-8 modal__footer__container modal__animation-text">
-                <a href="#callback" class="not-decorative modal__footer__feedback is-hidden--sm-down">Request a callback</a>
+                <a href="#callback" class="not-decorative modal__footer__feedback is-hidden--sm-down">Заказать звонок </a>
 
                 <a class="btn btn--square btn--outline btn--primary-header is-hidden--sm-up not-decorative modal__footer__favorite" aria-label="Избранное" role="button" href="#favourites" data-ajax-page-transition="modal-in">
                     <span class="btn__content">
                         
-        <svg class="icon icon-favourite" width="18" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#favourite" xlink:href="../assets/images/icons4a00.svg?v=1657181656#favourite"></use></svg>
+        <svg class="icon icon-favourite" width="18" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#favourite" xlink:href="/assets/images/icons.svg?v=1657181656#favourite"></use></svg>
                     </span>
                 </a>
 
-                <a class="btn btn--outline btn--primary-header is-hidden--sm-up not-decorative" aria-label="3D Tour" role="button" href="3d-tour.html">
+                <a class="btn btn--outline btn--primary-header is-hidden--sm-up not-decorative" aria-label="3D Tour" role="button" href="/3d-tour">
                     <span class="btn__content">
                         
-        <svg class="icon icon-tour-modal-xs" width="59" height="18" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#tour-modal-xs" xlink:href="../assets/images/icons4a00.svg?v=1657181656#tour-modal-xs"></use></svg>
+        <svg class="icon icon-tour-modal-xs" width="59" height="18" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#tour-modal-xs" xlink:href="/assets/images/icons.svg?v=1657181656#tour-modal-xs"></use></svg>
                     </span>
                 </a>
             </div>
 
                                                     <div class="col--xs-fill">
                 <div class="group group--right">
-                    <a class="btn btn--square btn--outline btn--primary--transparent--favorite--static not-decorative" aria-label="Language" role="button" href="../news.html">
+                    <a class="btn btn--square btn--outline btn--primary--transparent--favorite--static not-decorative" aria-label="Language" role="button" href="/en/assets/images/footer/videinfra8e1a.png">
                         <span class="btn__content">
                             <span class="btn__text">
-                                                                    RU
+                                                                    EN
                                                             </span>
                         </span>
                     </a>
@@ -1813,66 +1349,66 @@ by features
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="about.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="0.5" class="js-modal-close">
-                                About
+                            <a href="/about" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="0.5" class="js-modal-close">
+                                О проекте
                             </a>
                         </div>
                     </li>
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="location.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="1" class="js-modal-close">
-                                Location
+                            <a href="/location" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="1" class="js-modal-close">
+                                Расположение
                             </a>
                         </div>
                     </li>
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="infrastructure.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="1.5" class="js-modal-close">
-                                Infrastructure
+                            <a href="/infrastructure" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="1.5" class="js-modal-close">
+                                Инфраструктура
                             </a>
                         </div>
                     </li>
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="location.html#location-around-panorama" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="2" class="js-modal-close">
-                                Panorama
+                            <a href="/location#location-around-panorama" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="2" class="js-modal-close">
+                                Панорама
                             </a>
                         </div>
                     </li>
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="gallery.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="2.5" class="js-modal-close">
-                                Gallery
+                            <a href="/gallery" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="2.5" class="js-modal-close">
+                                Галерея
                             </a>
                         </div>
                     </li>
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="how-to-buy.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="3" class="js-modal-close">
-                                How to buy
+                            <a href="/how-to-buy" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="3" class="js-modal-close">
+                                Как купить
                             </a>
                         </div>
                     </li>
@@ -1881,10 +1417,10 @@ by features
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="parking-storage.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="0.5" class="js-modal-close">
+                            <a href="/parking-storage" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="0.5" class="js-modal-close">
                                 Паркинг и кладовые
                             </a>
                         </div>
@@ -1892,55 +1428,55 @@ by features
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="progress.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="1" class="js-modal-close">
-                                Construction progress
+                            <a href="/progress" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="1" class="js-modal-close">
+                                Ход строительства
                             </a>
                         </div>
                     </li>
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="tekta-group.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="1.5" class="js-modal-close">
-                                Developer
-                            </a>
-                        </div>
-                    </li>
-                                        <li class="js-menu-item is-active">
-                        <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
-                            
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
-                        </span></span>
-                        <div class="menu__nav__item-wrap">
-                            <a href="news.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="2" class="js-modal-close">
-                                News and Offers
+                            <a href="/tekta-group" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="1.5" class="js-modal-close">
+                                Застройщик
                             </a>
                         </div>
                     </li>
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="documents.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="2.5" class="js-modal-close">
-                                Documents
+                            <a href="/news" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="2" class="js-modal-close">
+                                Новости и Акции
                             </a>
                         </div>
                     </li>
                                         <li class="js-menu-item ">
                         <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
                             
-        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#arrow-right"></use></svg>
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
                         </span></span>
                         <div class="menu__nav__item-wrap">
-                            <a href="contact.html" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="3" class="js-modal-close">
-                                Contacts
+                            <a href="/documents" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="2.5" class="js-modal-close">
+                                Документы
+                            </a>
+                        </div>
+                    </li>
+                                        <li class="js-menu-item ">
+                        <span class="btn btn--square btn--menu btn--outline menu__nav__button"><span class="btn__content">
+                            
+        <svg class="icon icon-arrow-right" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#arrow-right"></use></svg>
+                        </span></span>
+                        <div class="menu__nav__item-wrap">
+                            <a href="/contact" data-reveal="3d" data-reveal-distance="-120" data-reveal-repeat="true" data-reveal-stagger="3" class="js-modal-close">
+                                Контакты
                             </a>
                         </div>
                     </li>
@@ -1967,14 +1503,14 @@ by features
                 <div class="modal__close">
                     <a class="btn btn--square btn--secondary-lighter-with-hover js-modal-close" aria-label="Закрыть" role="button" tabindex="0"><span class="btn__content">
                         
-        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#close" xlink:href="../assets/images/icons4a00.svg?v=1657181656#close"></use></svg>
+        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#close" xlink:href="/assets/images/icons.svg?v=1657181656#close"></use></svg>
                     </span>
                     </a>
                 </div>
 
                 <div class="callback">
                     
-<form name="contact" method="post" action="https://eniteo.ru/en/api/contact.json" data-plugin="ajaxForm recaptcha" data-recaptcha2-key="6LeXWNwZAAAAAHIQww7FXyQY_UCAL3t_cDspTNmp" data-recaptcha3-key="6LcPUtwZAAAAADCeJSXjeIX7s3-fj8Ng_l9QJW5f">
+<form name="contact" method="post" action="/api/contact.json" data-plugin="ajaxForm recaptcha" data-recaptcha2-key="6LeXWNwZAAAAAHIQww7FXyQY_UCAL3t_cDspTNmp" data-recaptcha3-key="6LcPUtwZAAAAADCeJSXjeIX7s3-fj8Ng_l9QJW5f">
 
         <div class="js-form-content">
         <div class="callback__form"><div class="callback__wrapper">
@@ -1982,12 +1518,12 @@ by features
                         <div class="error-message js-form-error-message is-hidden"></div>
 
             <h2 class="callback__title text--crop text--color-olive">
-                                    Request a callback                            </h2>
+                                    Заказать звонок                             </h2>
 
                                             <div class="form-group">
                     <div class="form-control form-control--input form-control--float" data-plugin="inputState">
                         <input type="text" id="contact_name" name="contact[name]" required="required" placeholder="Как вас зовут?" />
-                        <label class="form-label required" for="contact_name">Your name</label>
+                        <label class="form-label required" for="contact_name">Как вас зовут?</label>
                     </div>
                 </div>
 
@@ -1997,18 +1533,18 @@ by features
                         data-input-mask-mask="+7 ### ### ## ##"
                     >
                         <input type="tel" id="contact_phone" name="contact[phone]" required="required" placeholder="+7" />
-                        <label class="form-label required" for="contact_phone">Your phone number</label>
+                        <label class="form-label required" for="contact_phone">Ваш телефон</label>
                     </div>
                 </div>
             
             <p class="form-disclaimer text--tiny-text text--color-small">
-                By clicking the button you give <a href="user-agreement.html" target="_blank">consent</a><br />
-                    to the <a href="privacy-policy.html" target="_blank">personal data</a> processing            </p>
+                Нажимая на кнопку, вы даете <a href="/user-agreement" target="_blank">согласие</a><br />
+                    на обработку <a href="/privacy-policy" target="_blank">персональных данных</a>            </p>
 
             <div class="form-footer">
                 <button type="submit" class="btn btn--primary btn--lgs btn--square" aria-label="Отправить форму" data-reveal="button-in"><span class="btn__content">
                     
-        <svg class="icon icon-btn-arrow-right" width="20" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#btn-arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#btn-arrow-right"></use></svg>
+        <svg class="icon icon-btn-arrow-right" width="20" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#btn-arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#btn-arrow-right"></use></svg>
                 </span></button>
             </div>
         </div></div>
@@ -2018,12 +1554,12 @@ by features
         <div class="is-hidden js-form-success">
         <div class="callback__success">
             <div></div>
-            <h2 class="callback__title text--h4-xs text--crop text--color-olive">Thank you</h2>
-            <p class="text--lead-sm">We will contact you shortly</p>
+            <h2 class="callback__title text--h4-xs text--crop text--color-olive">Спасибо</h2>
+            <p class="text--lead-sm">Мы свяжемся с вами в ближайшее время</p>
         </div>
     </div>
 
-<input type="hidden" id="contact__token" name="contact[_token]" value="qq9B5ai3t8bebY6sSC1cGPWjKlQ2nrQaAYn0eRcVRfE" /></form>
+<input type="hidden" id="contact__token" name="contact[_token]" value="aLDjB-2YQtn5z9KizwdXTvVke09lELufi8Rw-LXt0dY" /></form>
 
 
                 </div>
@@ -2040,7 +1576,7 @@ by features
     aria-hidden="true"
     data-plugin="modal reveal favouritesList ajaxList"
         data-modal-auto-close-ignore-selector=".modal__content"
-    data-ajax-list-endpoint="/en/api/apartments/favourite"
+    data-ajax-list-endpoint="/api/apartments/favourite"
     data-ajax-list-endpoint-method="GET"
 >
         <div class="modal__background"></div>
@@ -2056,7 +1592,7 @@ by features
                     >
                         <span class="btn__content">
                             
-        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#close" xlink:href="../assets/images/icons4a00.svg?v=1657181656#close"></use></svg>
+        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#close" xlink:href="/assets/images/icons.svg?v=1657181656#close"></use></svg>
                         </span>
                     </a>
                 </div>
@@ -2064,50 +1600,59 @@ by features
 <div class="favourites">
 
     <div class="row">
-        <div class="favourites__title">Favorites</div>
+        <div class="favourites__title">Избранное</div>
         <div class="favourites__counter text--color-additional-quartz js-ajax-list-counter">
+                                0 квартир
+                    <script type="text/template">
+                        <%- transchoice(total, [
+                            '%count% квартир',  // 0
+                            '%count% квартира', // 1, 21, ...
+                            '%count% квартиры', // 2, 3, 4, 22, 23, ...
+                            '%count% квартир'   // ...
+                        ]) %>
+                    </script>
             
         </div>
     </div>
 
-    <p class="favourites__empty-text js-ajax-empty">This is where you can save the apartments you like</p>
+    <p class="favourites__empty-text js-ajax-empty">Сюда можно сохранять понравившиеся квартиры</p>
 
     <div class="favourites__btns-wrap row is-hidden js-ajax-list-btns-favs">
         <a class="btn btn--outline btn--primary"
            data-plugin="phonenumber"
-           href="flat/favourites.pdf"
+           href="/flat/favourites.zip"
            target="_blank"
         >
             <span class="btn__content">
                 
-        <svg class="icon icon-download" width="16" height="18" viewBox="0 0 20 20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#download" xlink:href="../assets/images/icons4a00.svg?v=1657181656#download"></use></svg>
-                <span class="btn__text">Download PDF</span>
+        <svg class="icon icon-download" width="16" height="18" viewBox="0 0 20 20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#download" xlink:href="/assets/images/icons.svg?v=1657181656#download"></use></svg>
+                <span class="btn__text">Скачать PDF</span>
             </span>
         </a>
 
         <a class="btn btn--outline btn--primary" href="#send-favourites">
             <span class="btn__content">
                 
-        <svg class="icon icon-mail" width="18" height="16" viewBox="0 0 17 16" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#mail" xlink:href="../assets/images/icons4a00.svg?v=1657181656#mail"></use></svg>
-                <span class="btn__text">Send by email</span>
+        <svg class="icon icon-mail" width="18" height="16" viewBox="0 0 17 16" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#mail" xlink:href="/assets/images/icons.svg?v=1657181656#mail"></use></svg>
+                <span class="btn__text">Отправить на почту</span>
             </span>
         </a>
     </div>
 
     <div class="favourites__btns-wrap favourites__btns-wrap--no-favs row js-ajax-list-btns-no-favs">
-        <a class="btn btn--outline btn--primary" href="visual-search.html">
+        <a class="btn btn--outline btn--primary" href="/visual-search">
             <span class="btn__content">
                 
-        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#eye" xlink:href="../assets/images/icons4a00.svg?v=1657181656#eye"></use></svg>
-                <span class="btn__text">Visual selection of apartments</span>
+        <svg class="icon icon-eye" width="21" height="14" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#eye" xlink:href="/assets/images/icons.svg?v=1657181656#eye"></use></svg>
+                <span class="btn__text">Визуальный выбор квартир</span>
             </span>
         </a>
 
-        <a class="btn btn--outline btn--primary" href="flats.html">
+        <a class="btn btn--outline btn--primary" href="/flats">
             <span class="btn__content">
                 
-        <svg class="icon icon-settings" width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#settings" xlink:href="../assets/images/icons4a00.svg?v=1657181656#settings"></use></svg>
-                <span class="btn__text">Search by features</span>
+        <svg class="icon icon-settings" width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#settings" xlink:href="/assets/images/icons.svg?v=1657181656#settings"></use></svg>
+                <span class="btn__text">Выбор по параметрам</span>
             </span>
         </a>
     </div>
@@ -2197,7 +1742,7 @@ by features
                                 data-tooltip-nowrap="true"
                                 data-tooltip-position="top-middle"
                                 data-tooltip-margin="20"
-                                title="Reserved"
+                                title="Квартира забронирована"
                         >
                                     
                                                             
@@ -2209,7 +1754,7 @@ by features
                                     >
         <span class="btn__content ">
                                         
-        <svg class="icon icon-lock btn__icon " width="18" height="18" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#lock" xlink:href="../assets/images/icons4a00.svg?v=1657181656#lock"></use></svg>
+        <svg class="icon icon-lock btn__icon " width="18" height="18" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#lock" xlink:href="/assets/images/icons.svg?v=1657181656#lock"></use></svg>
                     </span>
     </span>
 
@@ -2221,8 +1766,8 @@ by features
                     <span><%- apartment.type %><span class="apartment-item__hyphen">&mdash;</span><%- numberFormat(apartment.area, 1, '.', ' ') %> м<sup>2</sup></span>
                 </div>
                 <div class="apartment-item__info">
-                    <%- apartment.floor %> floor<br />
-                    <%- apartment.section %> section
+                    <%- apartment.floor %> этаж<br />
+                    <%- apartment.section %> секция
                 </div>
                 <div class="apartment-item__extras">
                     <div class="group group--xs">
@@ -2235,7 +1780,7 @@ by features
                                 >
                                     <span class="btn__content">
                                         
-        <svg class="icon icon-<%- extra.icon %> apartment-item__feature-icon" width="14" height="14" viewBox="0 0 21 21" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#<%- extra.icon %>" xlink:href="../assets/images/icons4a00.svg?v=1657181656#<%- extra.icon %>"></use></svg>
+        <svg class="icon icon-<%- extra.icon %> apartment-item__feature-icon" width="14" height="14" viewBox="0 0 21 21" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#<%- extra.icon %>" xlink:href="/assets/images/icons.svg?v=1657181656#<%- extra.icon %>"></use></svg>
                                     </span>
                                 </a>
                             </div>
@@ -2257,7 +1802,7 @@ by features
 <a class="btn btn--square btn--favourite btn--md btn--outline <% if (apartment.isFavourited) { %> is-active<% } %>"
     data-plugin="favourite"
     data-favourite-method="POST"
-    data-favourite-url="/en/api/favorite/toggle.json"
+    data-favourite-url="/api/favorite/toggle.json"
     data-favourite-id="<%- apartment.id %>"
     data-favourite-label-add="Добавить квартиру <%- apartment.id %> в избранное"
     data-favourite-label-remove="Удалить квартиру <%- apartment.id %> из избранного"
@@ -2267,7 +1812,7 @@ by features
 >
     <span class="btn__content">
         
-        <svg class="icon icon-favourite" width="17" height="19" viewBox="0 0 18 20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#favourite" xlink:href="../assets/images/icons4a00.svg?v=1657181656#favourite"></use></svg>
+        <svg class="icon icon-favourite" width="17" height="19" viewBox="0 0 18 20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#favourite" xlink:href="/assets/images/icons.svg?v=1657181656#favourite"></use></svg>
     </span>
 </a>                </div>
             </div>
@@ -2277,16 +1822,16 @@ by features
         
         
 <li>
-    <a href="flats.html" class="favourite-more py-1 px-1  js-favourite-more">
+    <a href="/flats" class="favourite-more py-1 px-1  js-favourite-more">
         <button class="btn btn--outline btn--primary--transparent btn--square"
             role="button" tabindex="0"
             title="выбрать ещё">
             <span class="btn__content">
                 
-        <svg class="icon icon-zoom-in-map" width="21" height="21" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#zoom-in-map" xlink:href="../assets/images/icons4a00.svg?v=1657181656#zoom-in-map"></use></svg>
+        <svg class="icon icon-zoom-in-map" width="21" height="21" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#zoom-in-map" xlink:href="/assets/images/icons.svg?v=1657181656#zoom-in-map"></use></svg>
             </span>
         </button>
-        <div class="favourite-more__title">add more</div>
+        <div class="favourite-more__title">выбрать ещё</div>
     </a>
 </li>
     </ul>
@@ -2300,7 +1845,7 @@ by features
 </div>
 
 
-    <link rel="stylesheet" href="../assets/stylesheets/favourites4a00.css?v=1657181656"/>
+    <link rel="stylesheet" href="/assets/stylesheets/favourites.css?v=1657181656"/>
                 
 <div class="modal modal--overlay modal--offset-top ui-light is-hidden" id="send-favourites"
     role="dialog" aria-hidden="true" aria-label="Отправить на почту"
@@ -2316,14 +1861,14 @@ by features
                 <div class="modal__close">
                     <a class="btn btn--square btn--secondary-lighter-with-hover js-modal-close" aria-label="Закрыть" role="button" tabindex="0"><span class="btn__content">
                         
-        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#close" xlink:href="../assets/images/icons4a00.svg?v=1657181656#close"></use></svg>
+        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#close" xlink:href="/assets/images/icons.svg?v=1657181656#close"></use></svg>
                     </span>
                     </a>
                 </div>
 
                 <div class="callback">
                     
-<form name="pdf_email" method="post" action="https://eniteo.ru/en/api/favourite/pdf/mail.json" data-plugin="ajaxForm recaptcha phonenumber" data-recaptcha2-key="6LeXWNwZAAAAAHIQww7FXyQY_UCAL3t_cDspTNmp" data-recaptcha3-key="6LcPUtwZAAAAADCeJSXjeIX7s3-fj8Ng_l9QJW5f" data-phonenumber-phone-target="action">
+<form name="pdf_email" method="post" action="/api/favourite/pdf/mail.json" data-plugin="ajaxForm recaptcha phonenumber" data-recaptcha2-key="6LeXWNwZAAAAAHIQww7FXyQY_UCAL3t_cDspTNmp" data-recaptcha3-key="6LcPUtwZAAAAADCeJSXjeIX7s3-fj8Ng_l9QJW5f" data-phonenumber-phone-target="action">
 
         <div class="js-form-content">
         <div class="callback__form">
@@ -2333,10 +1878,10 @@ by features
 
                 <h2 class="callback__title text--crop text--color-olive">
                     <span>
-                            Send
+                            Отправить
                         </span>
                         <span>
-                            by email
+                            на почту
                         </span>                </h2>
 
                 
@@ -2348,14 +1893,14 @@ by features
                 </div>
 
                 <p class="form-disclaimer text--tiny-text text--color-small">
-                    By clicking the button you give <a href="user-agreement.html" target="_blank">consent</a><br />
-                    to the <a href="privacy-policy.html" target="_blank">personal data</a> processing                </p>
+                    Нажимая на кнопку, вы даете <a href="/user-agreement" target="_blank">согласие</a><br />
+                    на обработку <a href="/privacy-policy" target="_blank">персональных данных</a>                </p>
 
                 <div class="form-footer">
                     <button type="submit" class="btn btn--primary btn--lgs btn--square" aria-label="Отправить форму" data-reveal="button-in">
                         <span class="btn__content">
                             
-        <svg class="icon icon-btn-arrow-right" width="22" height="22" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#btn-arrow-right" xlink:href="../assets/images/icons4a00.svg?v=1657181656#btn-arrow-right"></use></svg>
+        <svg class="icon icon-btn-arrow-right" width="22" height="22" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#btn-arrow-right" xlink:href="/assets/images/icons.svg?v=1657181656#btn-arrow-right"></use></svg>
                         </span>
                     </button>
                 </div>
@@ -2367,12 +1912,12 @@ by features
         <div class="is-hidden js-form-success">
         <div class="callback__success">
             <div></div>
-            <h2 class="callback__title text--h4-xs text--crop text--color-olive">Thank you</h2>
-            <p class="text--lead-sm">Layouts were sent by mail</p>
+            <h2 class="callback__title text--h4-xs text--crop text--color-olive">Спасибо</h2>
+            <p class="text--lead-sm">Макеты были отправлены на почту</p>
         </div>
     </div>
 
-<input type="hidden" id="pdf_email__token" name="pdf_email[_token]" value="vbhB1sUOMImbUjwqoT_65mvCZirijpjTPCOY3gTel3Y" /></form>
+<input type="hidden" id="pdf_email__token" name="pdf_email[_token]" value="6ym503grJ8j_8t0iw69qyC1pN9O7RFFVW4q0MJ3wVPo" /></form>
 
 
                 </div>
@@ -2402,7 +1947,7 @@ by features
                 <div class="modal__close">
                     <a class="btn btn--square btn--secondary-lighter-with-hover js-modal-close" aria-label="Закрыть" role="button" tabindex="0"><span class="btn__content">
                         
-        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#close" xlink:href="../assets/images/icons4a00.svg?v=1657181656#close"></use></svg>
+        <svg class="icon icon-close" width="19" height="19" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#close" xlink:href="/assets/images/icons.svg?v=1657181656#close"></use></svg>
                     </span>
                     </a>
                 </div>
@@ -2438,7 +1983,7 @@ by features
 <source srcset="/assets/images/common/new-condition-modal/image-xxl.jpg?v=1657181656?v=1657181656" media="    (min-width: 980px)"/>
 <source srcset="/assets/images/common/new-condition-modal/image-md.jpg?v=1657181656?v=1657181656" media="    (min-width: 568px) and (max-aspect-ratio: 13 / 9), only screen and (min-width: 668px) and (min-height: 416px), only screen and (min-width: 980px)"/>
 <img
-            src="../assets/images/common/new-condition-modal/image-xs8e1a.jpg?v=1657181656?v=1657181656"        alt=""            
+            src="/assets/images/common/new-condition-modal/image-xs.jpg?v=1657181656?v=1657181656"        alt=""            
         class=" "
         draggable="false"
         />
@@ -2468,7 +2013,7 @@ by features
         class="
             btn btn--primary js-modal-close btn--more
                                 "
-                                                href="../news/tekta-group-sovmestno-s-mkb-zapuskaet-ipotechnuiu-programmu-po-stavke-ot-0-01.html#news-item"
+                                                href="/news/tekta-group-sovmestno-s-mkb-zapuskaet-ipotechnuiu-programmu-po-stavke-ot-0-01#news-item"
                                                                             
                     data-ajax-page-ignore="1"
             
@@ -2495,7 +2040,7 @@ by features
             <div class="col col--auto col--md-3 pl-1 modal__animation-button">
                 <a class="btn btn--square btn--dark" aria-label="Меню" tabindex="0" href="#menu"><span class="btn__content">
                     
-        <svg class="icon icon-menu" width="20" height="16" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#menu" xlink:href="../assets/images/icons4a00.svg?v=1657181656#menu"></use></svg>
+        <svg class="icon icon-menu" width="20" height="16" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#menu" xlink:href="/assets/images/icons.svg?v=1657181656#menu"></use></svg>
                 </span></a>
             </div>
 
@@ -2503,7 +2048,7 @@ by features
                 <a class="btn btn--header btn--extended-area btn--link" href="#top">
                     <span class="btn__content">
                         
-        <svg class="icon icon-logo logo" width="141" height="46" viewBox="0 0 141 46" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#logo" xlink:href="../assets/images/icons4a00.svg?v=1657181656#logo"></use></svg>
+        <svg class="icon icon-logo logo" width="141" height="46" viewBox="0 0 141 46" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#logo" xlink:href="/assets/images/icons.svg?v=1657181656#logo"></use></svg>
                     </span>
                 </a>
             </div>
@@ -2517,7 +2062,7 @@ by features
             <div class="col col--auto pr-1 text-right modal__animation-button">
                 <a class="btn btn--square btn--dark" aria-label="Закажите бесплатный обратный звонок" role="button" href="#callback"><span class="btn__content">
                     
-        <svg class="icon icon-phone" width="19" height="20" aria-hidden="true"><use href="../assets/images/icons4a00.svg?v=1657181656#phone" xlink:href="../assets/images/icons4a00.svg?v=1657181656#phone"></use></svg>
+        <svg class="icon icon-phone" width="19" height="20" aria-hidden="true"><use href="/assets/images/icons.svg?v=1657181656#phone" xlink:href="/assets/images/icons.svg?v=1657181656#phone"></use></svg>
                 </span></a>
             </div>
         </div>
@@ -2544,7 +2089,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Chrome"
-                                src="../assets/images/common/outdated-chrome4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-chrome.png?v=1657181656"    />
 
         
             <span>Chrome</span>
@@ -2557,7 +2102,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Firefox"
-                                src="../assets/images/common/outdated-firefox4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-firefox.png?v=1657181656"    />
 
         
             <span>Firefox</span>
@@ -2570,7 +2115,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Safari"
-                                src="../assets/images/common/outdated-safari4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-safari.png?v=1657181656"    />
 
         
             <span>Safari (Mac OS)</span>
@@ -2583,7 +2128,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Edge"
-                                src="../assets/images/common/outdated-edge4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-edge.png?v=1657181656"    />
 
         
             <span>MS Edge</span>
@@ -2599,7 +2144,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Chrome"
-                                src="../assets/images/common/outdated-chrome4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-chrome.png?v=1657181656"    />
 
         
             <span>Chrome</span>
@@ -2612,7 +2157,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Firefox"
-                                src="../assets/images/common/outdated-firefox4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-firefox.png?v=1657181656"    />
 
         
             <span>Firefox</span>
@@ -2625,7 +2170,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Edge"
-                                src="../assets/images/common/outdated-edge4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-edge.png?v=1657181656"    />
 
         
             <span>MS Edge</span>
@@ -2641,7 +2186,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Chrome"
-                                src="../assets/images/common/outdated-chrome4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-chrome.png?v=1657181656"    />
 
         
             <span>Chrome</span>
@@ -2654,7 +2199,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Firefox"
-                                src="../assets/images/common/outdated-firefox4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-firefox.png?v=1657181656"    />
 
         
             <span>Firefox</span>
@@ -2667,7 +2212,7 @@ by features
     <img class=" "
          draggable="false"                    
                     alt="Edge"
-                                src="../assets/images/common/outdated-edge4a00.png?v=1657181656"    />
+                                src="/assets/images/common/outdated-edge.png?v=1657181656"    />
 
         
             <span>MS Edge</span>
@@ -2692,8 +2237,8 @@ by features
             }
         };
     </script>
-    <script src="../assets/javascripts/shared4a00.js?v=1657181656"></script>
+    <script src="/assets/javascripts/shared.js?v=1657181656"></script>
 
-        <script src="../assets/javascripts/news4a00.js?v=1657181656"></script>
-</body>
+            <script src="/assets/javascripts/blank.js?v=1657181656"></script>
+    </body>
 </html>
